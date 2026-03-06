@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "TOMORROW",
+  "base_artist": "岡本真夜",
+  "createdAt": "2026-03-06T09:54:31.149599Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kiss Tomorrow Goodbye",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/01_Kiss_Tomorrow_Goodbye_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Tomorrow Me",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/02_Tomorrow_Me_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Tomorrow Me",
+      "artist": "Luke Combs",
+      "has_synced": true,
+      "path": "select/03_Tomorrow_Me_Luke_Combs.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Headache Tomorrow (Or a Heartache Tonight)",
+      "artist": "Mickey Gilley",
+      "has_synced": true,
+      "path": "select/04_A_Headache_Tomorrow_(Or_a_Heartache_Tonight)_Mickey_Gilley.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Say You'll Stay Until Tomorrow",
+      "artist": "Tom Jones",
+      "has_synced": true,
+      "path": "select/05_Say_You'll_Stay_Until_Tomorrow_Tom_Jones.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tomorrow Never Comes",
+      "artist": "Zac Brown Band",
+      "has_synced": true,
+      "path": "select/06_Tomorrow_Never_Comes_Zac_Brown_Band.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tomorrow",
+      "artist": "Avril Lavigne",
+      "has_synced": true,
+      "path": "select/07_Tomorrow_Avril_Lavigne.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dee, It May All End Tomorrow",
+      "artist": "My Little Airport",
+      "has_synced": true,
+      "path": "select/08_Dee,_It_May_All_End_Tomorrow_My_Little_Airport.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Tomorrow Will Be Fine",
+      "artist": "Kurt Travis",
+      "has_synced": true,
+      "path": "select/09_Tomorrow_Will_Be_Fine_Kurt_Travis.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Better Tomorrow",
+      "artist": "Wu-Tang Clan",
+      "has_synced": false,
+      "path": "select/10_A_Better_Tomorrow_Wu-Tang_Clan.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Tomorrow",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/11_Tomorrow_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tomorrow - Apparat Remix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/12_Tomorrow_-_Apparat_Remix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Tomorrow (Apparat Remix)",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/13_Tomorrow_(Apparat_Remix)_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Living Like There Ain't No Tomorrow",
+      "artist": "Fugees",
+      "has_synced": true,
+      "path": "select/14_Living_Like_There_Ain't_No_Tomorrow_Fugees.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Tomorrow Never Came (feat. Sean Ono Lennon)",
+      "artist": "Lana Del Rey feat. Sean Ono Lennon",
+      "has_synced": true,
+      "path": "select/15_Tomorrow_Never_Came_(feat._Sean_Ono_Lennon)_Lana_Del_Rey_feat._Sean_Ono_Lennon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Tomorrow Never Came (feat. Sean Lennon)",
+      "artist": "Lana Del Rey",
+      "has_synced": true,
+      "path": "select/16_Tomorrow_Never_Came_(feat._Sean_Lennon)_Lana_Del_Rey.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Tomorrow",
+      "artist": "Paperboys",
+      "has_synced": true,
+      "path": "select/17_Tomorrow_Paperboys.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOMORROW",
+      "artist": "岡本 真夜",
+      "has_synced": false,
+      "path": "select/pl_01_TOMORROW_岡本_真夜.txt"
+    }
+  ]
+}
